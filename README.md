@@ -1,22 +1,6 @@
 # Decentralized-indipendent-verification
 Design of a decentralized verification program
 
-1,Intraduction
-Using smart contracts deployed on the EVM of Ethereum, a system will be created in which all participating parties will verify all events based on each other's language.
-
-Issue to be solved: Much of the information on the Internet today is unreliable, and the algorithms of certain people and large IT companies spread this information indiscriminately, which does not guarantee the accuracy of the information.
-
-In addition, information is concentrated and managed in data centers owned by Big Tech, and the policies of these companies exclude users and block information.
-To solve these problems, a decentralized, transparent, data validation organization without a central administrator should be established.
-It should be open to all, and the benefits gained from it should be shared by all participants.
-
-2,Subjects to be handled
-All information based on language.
-For example, the accuracy of thought, journalistic accuracy, peer review of scholarly articles, historical review, literary criticism, information about hobbies, records of travel destinations, definitions of poetry, and all other types of information about language and writing will be accurately evaluated and verified.
-
-3, Method
-Create a DAO on the protocol we have built, and inside it, create groups for each issue and each language. After those groups have verified the subjects of interest, they will be made available to the public.
-The members participating in the DAO will further verify the themes to improve the accuracy of the information.
 
 １、概要
 イーサリアムの EVM上に展開されるスマートコントラクトを用いて、参加する全ての人々が相互に言語に基づく全ての事象を検証していくシステムを構築する。
